@@ -4,5 +4,4 @@ This repo is part of the paper "Few-shot learning via multi-layer feature fusion
 ### Some requirements
 - torch
 - torchvision
-- numpy==1.21.5
-- scipy==1.5.1
+- numpy
